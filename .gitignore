@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+*.log
+
+# Data files
+playground-series-s5e10/*.csv
+*.csv
+
+# Docker
+*.tar
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# IDE / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# Eclipse
+.metadata/
+*.classpath
+*.project
+.settings/
+
+# Any temp files
+*.tmp
+*.swp
